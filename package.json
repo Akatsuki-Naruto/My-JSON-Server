@@ -1,0 +1,15 @@
+{
+  "name": "my-json-server",
+  "version": "1.0.0",
+  "description": "save Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Akatsuki",
+  "license": "ISC",
+  "dependencies": {
+    "react-ajax": "^0.1.1"
+  }
+}

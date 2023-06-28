@@ -36,5 +36,32 @@
         "avatar": "assets/image/t%E1%BA%A3i%20xu%E1%BB%91ng.jpg",
         "picture": " https://www.freecodecamp.org/news/content/images/2021/08/chris-ried-ieic5Tq8YMk-unsplash.jpg "
       }
+    ],
+
+    "Comments": [
+      {
+        "id": 1,
+        "Comments": "Comments 1"
+      },
+      {
+        "id": 2,
+        "Comments": "Comments 2"
+      },
+      {
+        "id": 3,
+        "Comments": "Comments 3"
+      },
+      {
+        "id": 4,
+        "Comments": "Comments 4"
+      },
+      {
+        "id": 5,
+        "Comments": "Comments 5"
+      },
+      {
+        "id": 6,
+        "Comments": "Comments 6"
+      }
     ]
   }
